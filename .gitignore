@@ -402,3 +402,4 @@ FodyWeavers.xsd
 
 #Config File
 *.json
+/CS2CustomsBot/appsettings.json
